@@ -57,3 +57,13 @@ Status
 
 Early-stage architecture exploration.
 No production implementation yet.
+## Quickstart
+
+Clone and run the minimal prototype:
+
+```bash
+git clone https://github.com/rowanseerwald/aib-identity-prototype.git
+cd aib-identity-prototype
+python demo.py
+
+
